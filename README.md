@@ -1,3 +1,5 @@
+this is a fork of the pipeline below. it may be useful when debugging.
+
 Docker Pipeline Plugin
 =====================================
 
